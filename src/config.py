@@ -1,7 +1,7 @@
 #Config.py
-GEMINI_API_KEY = "AIzaSyA83lSdFOBprXCSb7XwzSQptnnkYZ-hRnk"
-GOOGLE_DRIVE_FOLDER_ID = "1PQcefSBs9JV551lCoMLT9cYwthlki-Wu"
-PATHWAY_LICENSE_KEY = "75661D-002669-F2A672-8B4E2A-9F1EDF-V3"
+GEMINI_API_KEY = "Enter you own gemini api key"
+GOOGLE_DRIVE_FOLDER_ID = "Enter your google drive folder id"
+PATHWAY_LICENSE_KEY = "enter your pathway license id"
 
 # Server configuration
 APP_HOST = "0.0.0.0"
