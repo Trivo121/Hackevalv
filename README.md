@@ -14,7 +14,7 @@ By combining the power of Google's Gemini AI with Pathway's vector processing ca
 
 ## ✨ Key Features
 
-- **Automated PDF Processing**: Automatically extracts and processes text from PDF presentations
+- **Automated PDF Processing**: Automatically extracts and processes text from PDF presentations.
 - **Customizable Evaluation Criteria**: Define your own evaluation criteria and scoring weights
 - **Intelligent Content Analysis**: Uses AI to understand presentation content and context
 - **Detailed Feedback Generation**: Provides comprehensive feedback for each evaluation aspect
