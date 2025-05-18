@@ -195,7 +195,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgements
 
-- [Google Gemini AI](https://deepmind.google/technologies/gemini/) for the language model
+- [Google Gemini AI](https://deepmind.google/technologies/gemini/) for the language model.
 - [Pathway](https://pathway.com/) for the vector processing infrastructure.
 - [Streamlit](https://streamlit.io/) for the intuitive UI framework.
 - [FastAPI](https://fastapi.tiangolo.com/) for the robust API backend.
