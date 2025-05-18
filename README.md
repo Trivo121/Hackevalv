@@ -199,4 +199,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Pathway](https://pathway.com/) for the vector processing infrastructure
 - [Streamlit](https://streamlit.io/) for the intuitive UI framework
 - [FastAPI](https://fastapi.tiangolo.com/) for the robust API backend
-- [PyPDF2](https://pythonhosted.org/PyPDF2/) for PDF processing capabilities
+- [PyPDF2](https://pythonhosted.org/PyPDF2/) for PDF processing capabilities.
