@@ -19,8 +19,8 @@ By combining the power of Google's Gemini AI with Pathway's vector processing ca
 - **Intelligent Content Analysis**: Uses AI to understand presentation content and context.
 - **Detailed Feedback Generation**: Provides comprehensive feedback for each evaluation aspect.
 - **Intuitive User Interface**: Built with Streamlit for a clean, responsive experience.
-- **Presentation Ranking**: Automatically ranks presentations by score
-- **REST API Integration**: Backend API for integration with other systems
+- **Presentation Ranking**: Automatically ranks presentations by score.
+- **REST API Integration**: Backend API for integration with other systems.
 
 ## 🏗️ Architecture
 
