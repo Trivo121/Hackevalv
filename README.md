@@ -42,7 +42,7 @@ The application follows a modular architecture with these main components:
 
 - Python 3.8 or higher.
 - Pathway license key.
-- Google Gemini API key
+- Google Gemini API key.
 
 ## 🔧 Installation
 
