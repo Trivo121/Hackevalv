@@ -28,15 +28,15 @@ The application follows a modular architecture with these main components:
 
 1. **Data Processing Module (`extract_ppt.py`)**: Handles PDF extraction and document preparation.
 2. **Evaluation Engine (`evaluate.py`)**: Core evaluation logic using RAG and LLM technologies.
-3. **Web Service (`main.py`)**: FastAPI backend service for handling evaluation requests
-4. **User Interface (`ui.py`)**: Streamlit-based frontend for user interactions
+3. **Web Service (`main.py`)**: FastAPI backend service for handling evaluation requests.
+4. **User Interface (`ui.py`)**: Streamlit-based frontend for user interactions.
 
 ### Technology Stack:
 
-- **Backend**: Python, FastAPI, Pathway, PyPDF2
-- **AI/ML**: Google Gemini, Vector Embeddings, RAG (Retrieval Augmented Generation)
-- **Frontend**: Streamlit
-- **Infrastructure**: Docker-ready, configurable for cloud deployment
+- **Backend**: Python, FastAPI, Pathway, PyPDF2.
+- **AI/ML**: Google Gemini, Vector Embeddings, RAG (Retrieval Augmented Generation).
+- **Frontend**: Streamlit.
+- **Infrastructure**: Docker-ready, configurable for cloud deployment.
 
 ## 📋 Prerequisites
 
