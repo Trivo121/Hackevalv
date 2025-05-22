@@ -40,7 +40,7 @@ The application follows a modular architecture with these main components:
 
 ## 📋 Prerequisites
 
-- Python 3.8 or higher
+- Python 3.8 or higher.
 - Pathway license key
 - Google Gemini API key
 
