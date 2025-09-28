@@ -9,7 +9,7 @@ from evaluate import setup_evaluator
 import config
 
 def init_logging():
-    """Initialize logging configuration"""
+    """Initialize logging configuration""" 
     logging.basicConfig(
         level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
     )
