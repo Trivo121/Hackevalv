@@ -6,7 +6,7 @@ import PyPDF2
 from functools import reduce as py_reduce
 
 # Configure logging
-logging.basicConfig(level=logging.INFO, format='%(levelname)s:%(message)s')
+logging.basicConfig(level=logging.INFOat='%(levelname)s:%(message)s')
 
 class Document:
     """A simple wrapper for document data that provides helper methods."""
