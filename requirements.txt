@@ -1,7 +1,7 @@
 pathway>=0.7.0
 PyPDF2>=3.0.0
 gemini-api
-litellm= 1.0
+litellm= 
 fastapi>=0.104.0
 uvicorn>=0.23.2
 python-multipart
