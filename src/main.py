@@ -11,7 +11,7 @@ import config
 def init_logging():
     """Initialize logging configuration""" 
     logging.basicConfig(
-        level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+        level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s" 
     )
 
 def setup_gemini():
