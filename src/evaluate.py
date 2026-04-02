@@ -10,7 +10,7 @@ import uvicorn
 import time
 import asyncio
 
-class PresentationEvaluator:
+class PresentationEvaluator: 
     """A wrapper class for evaluating presentations using RAG"""
     
     def __init__(self, llm, doc_store):
